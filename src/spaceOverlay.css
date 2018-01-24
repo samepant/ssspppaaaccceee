@@ -1,0 +1,28 @@
+.spaceOverlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left:0;
+}
+
+.spaceShape {
+  fill: gold;
+  box-shadow: inset 0px 0px 27px -1px rgba(0,0,0,0.75);
+}
+
+.breathe {
+  animation: breathe 3s infinite ease-in-out;
+}
+
+.titleText {
+  font-size: 140px;
+  letter-spacing: 258px;
+}
+
+@keyframes breathe{
+  50%{
+    transform: scale(1.02);
+    transform-origin: 50% 50%;
+  }
+}
