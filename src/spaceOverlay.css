@@ -16,13 +16,36 @@
 }
 
 .titleText {
-  font-size: 140px;
-  letter-spacing: 258px;
+  font-size: 150px;
+  letter-spacing: 260px;
+}
+
+.secondText {
+  font-size: 127px;
+    letter-spacing: 45px;
+}
+
+.thirdText {
+  font-size: 127px;
+  letter-spacing: 45px;
 }
 
 @keyframes breathe{
   50%{
-    transform: scale(1.02);
+    transform: scaleY(1.03);
     transform-origin: 50% 50%;
   }
+}
+
+
+.countdown {
+  position: absolute;
+  top: 28%;
+  left: 31%;
+  width: 240px;
+  transform: rotateZ(-90deg);
+}
+
+.clockText {
+  font-size: 70px;
 }
