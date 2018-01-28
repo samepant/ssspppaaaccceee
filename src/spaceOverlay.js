@@ -48,7 +48,7 @@ export default class extends React.Component {
               AN UNCONFERENCE IN A BUBBLE AT CAA
             </textPath>
             <textPath xlinkHref='#PathForthird' className='thirdText' >
-              MARCH 28TH, 29TH, 30TH, 2018
+              MARCH 29TH, 30TH, 31ST, 2018
             </textPath>
           </text>
         </svg>
