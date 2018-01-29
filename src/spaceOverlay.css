@@ -4,11 +4,11 @@
   position: absolute;
   top: 0;
   left:0;
-  background: cornflowerblue;
+  background: url('/ugh.jpg');
+  background-size: cover;
 }
 
 .spaceShape {
-  fill: gold;
   box-shadow: inset 0px 0px 27px -1px rgba(0,0,0,0.75);
 }
 
@@ -23,12 +23,17 @@
 
 .secondText {
   font-size: 127px;
-    letter-spacing: 45px;
+  letter-spacing: 25px;
 }
 
 .thirdText {
   font-size: 127px;
-  letter-spacing: 45px;
+  letter-spacing: 55px;
+}
+
+.countdown {
+  font-size: 114px;
+  letter-spacing: 20px;
 }
 
 @keyframes breathe{
@@ -38,15 +43,3 @@
   }
 }
 
-
-.countdown {
-  position: absolute;
-  top: 28%;
-  left: 31%;
-  width: 240px;
-  transform: rotateZ(-90deg);
-}
-
-.clockText {
-  font-size: 70px;
-}

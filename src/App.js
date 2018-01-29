@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import CranbrookSite from './cranbrookSite'
 import SpaceOverlay from './spaceOverlay'
 import './App.css';
 
