@@ -18,22 +18,22 @@
 
 .titleText {
   font-size: 150px;
-  letter-spacing: 260px;
+  letter-spacing: 10px;
 }
 
 .secondText {
   font-size: 127px;
-  letter-spacing: 25px;
+  letter-spacing: 5px;
 }
 
 .thirdText {
   font-size: 127px;
-  letter-spacing: 55px;
+  letter-spacing: 5px;
 }
 
 .countdown {
   font-size: 114px;
-  letter-spacing: 20px;
+  letter-spacing: 15px;
 }
 
 @keyframes breathe{
