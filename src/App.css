@@ -1,3 +1,9 @@
 .App {
-  }
+  background: #fff06d;
+  font-family: 'Helvetica', Arial, san-serif;
+}
 
+@font-face {
+  font-family: SpaceSlanted;
+  src: url("/spaceSlanted.otf") format("opentype");
+}

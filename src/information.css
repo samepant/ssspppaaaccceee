@@ -1,0 +1,139 @@
+.info-container {
+  margin-top: 50px;
+}
+
+.info {
+  padding: 50px 20px 30px 60px;
+  position: relative;
+}
+
+h1 {
+  font-size: 1.3em;
+  margin-top: 0;
+  text-align: justify;
+  font-weight: normal;
+}
+
+h2 {
+  margin-top: 0;
+  font-weight: normal;
+  font-size: 1em;
+}
+
+article {
+  -webkit-columns: 4 200px;
+     -moz-columns: 4 200px;
+          columns: 4 200px;
+}
+
+article.columns p{
+  position: relative;
+  z-index: 100;
+}
+
+/* article.columns p:before {
+  content: '';
+  width: 60px;
+  height: 40px;
+  border-radius: 50%;
+  background: blue;
+  opacity: 0.1;
+  position: absolute;
+  top: -6px;
+  left: -7px;
+  z-index: 0;
+}
+*/
+
+p:first-child {
+  margin-top: 0;
+}
+
+.name-container {
+  margin: 0;
+}
+
+.names {
+  text-transform: uppercase;
+  margin-top: 0;
+}
+
+a{
+  color: black;
+  transition: all 0.2s ease;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: #fff06d;
+  background: black;
+  font-weight: 400;
+}
+
+.workshop .time, .schedule-day .day {
+  text-transform: uppercase;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.workshop .names {
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.workshop .title {
+  text-transform: uppercase;
+  font-style: italic;
+  margin-top: 0;
+}
+
+.workshop p:last-child {
+  margin-bottom: 40px;
+}
+
+article.flex-3 {
+  columns: 0;
+  display: flex;
+}
+
+.flex-3 div {
+  flex: 0 1 auto;
+  width: 33%;
+  padding: 0 30px;
+}
+
+.flex-3 div:first-child {
+  padding: 0 30px 0 0;
+}
+
+.flex-3 div:last-child {
+  padding: 0 0 0 30px;
+}
+
+.schedule-day .day {
+  margin-bottom: 10px;
+}
+
+.schedule-day .time {
+  text-transform: uppercase;
+  padding-left: 10px;
+  margin: 0;
+}
+
+.schedule-day .title {
+  padding-left: 20px;
+  margin: 5px 0 10px 0;
+}
+
+@media (max-width: 740px) {
+  article.flex-3 {
+    display: block;
+  }
+  .flex-3 div {
+    width: 100%;
+    padding: 0 !important;
+  }
+}

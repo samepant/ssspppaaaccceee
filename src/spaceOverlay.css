@@ -1,11 +1,16 @@
 .spaceOverlay {
   height: 100%;
   width: 100%;
-  position: absolute;
-  top: 0;
-  left:0;
+  padding: 50px 0;
   background: url('/ugh.jpg');
   background-size: cover;
+  box-shadow: 0px -1px 28px 10px rgba(0,0,0,0.75);
+}
+
+.bubble {
+  width: 70%;
+  margin: 0 auto;
+  display: block;
 }
 
 .spaceShape {

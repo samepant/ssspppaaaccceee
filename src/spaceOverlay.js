@@ -38,7 +38,7 @@ export default class extends React.Component {
   render () {
     return (
       <div className='spaceOverlay'>
-        <svg viewBox="0 0 2000 1432.86" width='100%' height='100%'>
+        <svg viewBox="0 0 2000 1432.86" className='bubble'>
           <defs>
             <filter id="inset-shadow">
               <feFlood floodColor="black"/>
