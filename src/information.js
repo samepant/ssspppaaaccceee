@@ -1,5 +1,6 @@
 import React from 'react'
 import './information.css'
+import SpaceMap from './map.js'
 
 export default class extends React.Component {
   render () {
@@ -77,7 +78,11 @@ export default class extends React.Component {
               <p className='title'>closing party and screenings</p>
             </div>
           </article>
+          <div>
+            <p>email us at <a href='mailto:info@ssspppaaaccceee.website'>info@ssspppaaaccceee.website</a> if you want to schedule an event in the bubble!</p>
+          </div>
         </div>
+        <SpaceMap />
       </div>
     )
   }
