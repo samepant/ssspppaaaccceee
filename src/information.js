@@ -34,7 +34,7 @@ export default class extends React.Component {
               <p>This presentation and discussion will focus on systems of education as they relate to the prison industrial complex; the state of education and arts based programming in prisons today, strategies for resisting the impediments of carceral logic as it pertains to education behind bars, and collaborative pedagogical processes between incarcerated and non-incarcerated people by which change can be created for the benefit of all.</p>
             </div>
             <div className='workshop'>
-              <p className='time'>Saturday 11 am</p>
+              <p className='time'>Friday 11 am</p>
               <p className='names'>Wesley Taylor</p>
               <p className='title'>Tower and Dungeon (School, Stadium)</p>
               <p>Using Gloria House's book Tower and Dungeon as a framework we will be exploring the connections between real estate development of Downtown Detroit, gentrification, the prison industrial complex and Cranbrook. We will take a macro analysis of how it effects the region and a micro analysis of how space effects bodies and physiology.</p>
@@ -59,16 +59,15 @@ export default class extends React.Component {
             </div>
             <div className='schedule-day'>
               <p className='day'>Friday 3/30</p>
+              <p className='time'>11 am</p>
+              <p className='title'>Wes Taylor workshop: Tower and Dungeon (School, Stadium)</p>
               <p className='time'>2 pm</p>
               <p className='title'>Jonathan Rajewski and James Thomas workshop: Resisting Carceral Logic: Strategies for creating educational spaces in prison</p>
               <p className='time'>5 pm</p>
               <p className='title'>Performative dinner</p>
             </div>
             <div className='schedule-day'>
-              <p className='day'>Saturday 3/31</p>
-              <p className='time'>11 am</p>
-              <p className='title'>Wes Taylor workshop: Tower and Dungeon (School, Stadium)</p>
-              <p className='time'>2 pm</p>
+              <p className='day'>Saturday 3/31</p><p className='time'>2 pm</p>
               <p className='title'>Kikko Paradela, Danielle Aubert, Bianca Ibarlucea workshop: Graphic Design and Late Capitalism</p>
               <p className='time'>4-5 pm</p>
               <p className='title'>reflections round table</p>
