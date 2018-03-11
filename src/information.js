@@ -28,22 +28,25 @@ export default class extends React.Component {
           <h1>W W W O O O R R R K K K S S S H H H O O O P P P S S S</h1>
           <article className='flex-3'>
             <div className='workshop'>
-              <p className='time'>Friday 2 pm</p>
-              <p className='names'>Jonathan Rajewski and James Thomas</p>
-              <p className='title'>Resisting Carceral Logic: Strategies for creating educational spaces in prison</p>
-              <p>This presentation and discussion will focus on systems of education as they relate to the prison industrial complex; the state of education and arts based programming in prisons today, strategies for resisting the impediments of carceral logic as it pertains to education behind bars, and collaborative pedagogical processes between incarcerated and non-incarcerated people by which change can be created for the benefit of all.</p>
-            </div>
-            <div className='workshop'>
               <p className='time'>Friday 11 am</p>
               <p className='names'>Wesley Taylor</p>
               <p className='title'>Tower and Dungeon (School, Stadium)</p>
               <p>Using Gloria House's book Tower and Dungeon as a framework we will be exploring the connections between real estate development of Downtown Detroit, gentrification, the prison industrial complex and Cranbrook. We will take a macro analysis of how it effects the region and a micro analysis of how space effects bodies and physiology.</p>
+              <p className='register'><a href='https://www.eventbrite.com/e/space3-workshop-1-tower-and-dungeon-school-stadium-tickets-43584567615?aff=es2' target='_blank'>REGISTER HERE</a></p>
+            </div>
+            <div className='workshop'>
+              <p className='time'>Friday 2 pm</p>
+              <p className='names'>Jonathan Rajewski and James Thomas</p>
+              <p className='title'>Resisting Carceral Logic: Strategies for creating educational spaces in prison</p>
+              <p>This presentation and discussion will focus on systems of education as they relate to the prison industrial complex; the state of education and arts based programming in prisons today, strategies for resisting the impediments of carceral logic as it pertains to education behind bars, and collaborative pedagogical processes between incarcerated and non-incarcerated people by which change can be created for the benefit of all.</p>
+              <p className='register'><a href='https://www.eventbrite.com/e/space3-workshop-2-resisting-carceral-logic-tickets-43584126295?aff=es2' target='_blank'>REGISTER HERE</a></p>
             </div>
             <div className='workshop'>
               <p className='time'>Saturday 2 pm</p>
               <p className='names'>Bianca Ibarlucea, Kikko Paradela, Danielle Aubert</p>
               <p className='title'>Graphic Design and Late Capitalism</p>
               <p>We will lead a discussion about the role of graphic design in extending neoliberalism in this stage of capitalism. We will also talk about how to work against that, toward a decolonial design practice, and what that might look like.</p>
+              <p className='register'><a href='https://www.eventbrite.com/e/space3-workshop-3-graphic-design-and-late-capitalism-tickets-43584473333?aff=es2' target='_blank'>REGISTER HERE</a></p>
             </div>
           </article>
         </div>
@@ -53,7 +56,7 @@ export default class extends React.Component {
             <div className='schedule-day'>
               <p className='day'>Thursday 3/29</p>
               <p className='time'>4:30-6 pm</p>
-              <p className='title'>opening dinner</p>
+              <p className='title'>opening dinner <a href='https://www.eventbrite.com/e/space3-dinner-1-tickets-43584624786?aff=es2' target='_blank'>(RSVP HERE)</a></p>
               <p className='time'>7 pm</p>
               <p className='title'>Hamtramck Free School screening and tour</p>
             </div>
@@ -64,7 +67,7 @@ export default class extends React.Component {
               <p className='time'>2 pm</p>
               <p className='title'>Jonathan Rajewski and James Thomas workshop: Resisting Carceral Logic: Strategies for creating educational spaces in prison</p>
               <p className='time'>5 pm</p>
-              <p className='title'>Performative dinner</p>
+              <p className='title'>Performative dinner <a href='https://www.eventbrite.com/e/space3-dinner-2-tickets-43584703020?aff=es2' target='_blank'>(RSVP HERE)</a></p>
             </div>
             <div className='schedule-day'>
               <p className='day'>Saturday 3/31</p><p className='time'>2 pm</p>
@@ -72,7 +75,7 @@ export default class extends React.Component {
               <p className='time'>4-5 pm</p>
               <p className='title'>reflections round table</p>
               <p className='time'>5 pm </p>
-              <p className='title'>Performative dinner</p>
+              <p className='title'>Performative dinner <a href='https://www.eventbrite.com/e/space3-dinner-3-tickets-43584725086?aff=es2' target='_blank'>(RSVP HERE)</a></p>
               <p className='time'>evening</p>
               <p className='title'>closing party and screenings</p>
             </div>
