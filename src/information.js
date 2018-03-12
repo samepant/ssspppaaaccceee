@@ -32,7 +32,6 @@ export default class extends React.Component {
               <p className='names'>Wesley Taylor</p>
               <p className='title'>Tower and Dungeon (School, Stadium)</p>
               <p>Using Gloria House's book Tower and Dungeon as a framework we will be exploring the connections between real estate development of Downtown Detroit, gentrification, the prison industrial complex and Cranbrook. We will take a macro analysis of how it effects the region and a micro analysis of how space effects bodies and physiology.</p>
-              <p className='register'><a href='https://www.eventbrite.com/e/space3-workshop-1-tower-and-dungeon-school-stadium-tickets-43584567615?aff=es2' target='_blank'>REGISTER HERE</a></p>
             </div>
             <div className='workshop'>
               <p className='time'>Friday 2 pm</p>
