@@ -55,7 +55,7 @@ export default class extends React.Component {
             <div className='schedule-day'>
               <p className='day'>Thursday 3/29</p>
               <p className='time'>4:30-6 pm</p>
-              <p className='title'>opening dinner <a href='https://www.eventbrite.com/e/space3-dinner-1-tickets-43584624786?aff=es2' target='_blank'>(RSVP HERE)</a></p>
+              <p className='title'>Participatory culinary performance <a href='https://www.eventbrite.com/e/space3-dinner-1-tickets-43584624786?aff=es2' target='_blank'>(RSVP HERE)</a></p>
               <p className='time'>7 pm</p>
               <p className='title'>Hamtramck Free School screening and tour</p>
             </div>
@@ -66,7 +66,7 @@ export default class extends React.Component {
               <p className='time'>2 pm</p>
               <p className='title'>Jonathan Rajewski and James Thomas workshop: Resisting Carceral Logic: Strategies for creating educational spaces in prison</p>
               <p className='time'>5 pm</p>
-              <p className='title'>Performative dinner <a href='https://www.eventbrite.com/e/space3-dinner-2-tickets-43584703020?aff=es2' target='_blank'>(RSVP HERE)</a></p>
+              <p className='title'>Participatory culinary performance <a href='https://www.eventbrite.com/e/space3-dinner-2-tickets-43584703020?aff=es2' target='_blank'>(RSVP HERE)</a></p>
             </div>
             <div className='schedule-day'>
               <p className='day'>Saturday 3/31</p><p className='time'>2 pm</p>
@@ -74,7 +74,7 @@ export default class extends React.Component {
               <p className='time'>4-5 pm</p>
               <p className='title'>reflections round table</p>
               <p className='time'>5 pm </p>
-              <p className='title'>Performative dinner <a href='https://www.eventbrite.com/e/space3-dinner-3-tickets-43584725086?aff=es2' target='_blank'>(RSVP HERE)</a></p>
+              <p className='title'>Participatory culinary performance <a href='https://www.eventbrite.com/e/space3-dinner-3-tickets-43584725086?aff=es2' target='_blank'>(RSVP HERE)</a></p>
               <p className='time'>evening</p>
               <p className='title'>closing party and screenings</p>
             </div>
