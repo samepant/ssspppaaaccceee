@@ -58,7 +58,7 @@ export default class extends React.Component {
               <p className='time'>2 pm</p>
               <p className='title'>Wes Taylor workshop: Tower and Dungeon (School, Stadium)</p>
               <p className='time'>4:30-6 pm</p>
-              <p className='title'>Participatory culinary performance <a href='https://www.eventbrite.com/e/space3-participatory-culinary-performance-3-am-tickets-43911279820?aff=es2' target='_blank'>(RSVP HERE)</a></p>
+              <p className='title'>Participatory culinary performance <a href='https://www.eventbrite.com/e/space3-participatory-culinary-performance-1-pm-tickets-43584624786?aff=es2' target='_blank'>(RSVP HERE)</a></p>
               <p className='time'>7 pm</p>
               <p className='title'>Hamtramck Free School screening and tour</p>
             </div>
