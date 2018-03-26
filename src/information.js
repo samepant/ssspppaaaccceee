@@ -72,8 +72,6 @@ export default class extends React.Component {
             </div>
             <div className='schedule-day'>
               <p className='day'>Saturday 3/31</p>
-              <p className='time'>10:30 am </p>
-              <p className='title'>Participatory culinary performance <a href='https://www.eventbrite.com/e/space3-dinner-3-tickets-43584725086?aff=es2' target='_blank'>(RSVP HERE)</a></p>
               <p className='time'>2 pm</p>
               <p className='title'>Kikko Paradela, Danielle Aubert, Bianca Ibarlucea workshop: Graphic Design and Late Capitalism</p>
               <p className='time'>4-5 pm</p>
